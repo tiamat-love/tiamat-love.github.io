@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>未分类 &#8211; 韶颜芳华</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>韶颜芳华</description>
+	<lastBuildDate>Sun, 12 Mar 2023 08:45:15 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/08/4d26b8b4aba56ab3-edited-e1659181419202-150x150.jpg</url>
+	<title>未分类 &#8211; 韶颜芳华</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>什么是汉服</title>
+		<link>/2022/09/1-2/</link>
+					<comments>/2022/09/1-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Nuru]]></dc:creator>
+		<pubDate>Sat, 03 Sep 2022 16:53:59 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">https://tiamat.love/?p=46</guid>
+
+					<description><![CDATA[严格意义上说，汉服不是古装，不是历朝历代的古代款式合集。 汉民族传统服饰因清初薙发易服而消亡，不能与民间遗留的 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<pre class="wp-block-verse">        严格意义上说，汉服不是古装，不是历朝历代的古代款式合集。
+
+        汉民族传统服饰因清初薙发易服而消亡，不能与民间遗留的汉人服饰、汉族民间服饰混为一谈。现代汉服体系不等于西式元素的杂糅、拼贴和重组，而是基于中国传统制衣理念的第三条路，即立足古代汉服体系的接续与传承，按照现代民族服饰的分类与应用特征，重构现代汉族服饰。
+
+        “汉民族传统服饰”，又称衣冠、衣裳、汉装，是从黄帝即位到公元17世纪中叶（明末清初），在汉族的主要居住区，以“华夏－汉”文化为背景和主导思想，以华夏礼仪文化为中心，通过自然演化而形成的具有独特汉民族风貌性格，明显区别于其他民族的传统服装和配饰体系，是中国“衣冠上国”、“礼仪之邦”、“锦绣中华”的体现，承载了汉族的染织绣等杰出工艺和美学，传承了30多项中国非物质文化遗产以及受保护的中国工艺美术。
+
+         我们现在所说的汉服，虽然的确不是汉民族传统服饰，但也确确实实脱胎于汉民族传统服饰。具有一定的内容沿袭。
+
+
+</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/09/1-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>网站基本信息</title>
+		<link>/2022/08/main/</link>
+		
+		<dc:creator><![CDATA[Nuru]]></dc:creator>
+		<pubDate>Sat, 13 Aug 2022 03:01:08 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">https://tiamat.love/?p=1</guid>
+
+					<description><![CDATA[说在最前面，建站相关还在学习，页面简陋请见谅。 本博客属于个人自建博客。 博客会分享一些汉服相关知识，比如形制 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>说在最前面，建站相关还在学习，页面简陋请见谅。</p>
+
+
+
+<p>本博客属于个人自建博客。</p>
+
+
+
+<p>博客会分享一些汉服相关知识，比如形制、历史、购买指南等等（挖坑，等待填充）</p>
+
+
+
+<p>网站目前已成功申请为交互式网站，现已支持用户注册、评论、发表文章。但目前所有信息必须经过管理员审核后才能发表，且目前无法实现账号找回功能，望悉之。</p>
+
+
+
+<p>如有其他问题，请联系nuru@office.tiamat.love</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
